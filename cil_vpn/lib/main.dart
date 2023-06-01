@@ -15,6 +15,8 @@ class MyApp extends StatelessWidget {
       title: 'CilVpn',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        highlightColor: Colors.transparent,
+        splashFactory: NoSplash.splashFactory,
       ),
       home: HomeSreen(),
     );

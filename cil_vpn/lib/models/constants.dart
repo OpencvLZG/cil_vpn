@@ -5,7 +5,7 @@ const kSecondaryColor = Color.fromARGB(255, 24, 202, 225);
 const kTextColor = Color(0xFF12153D);
 const kTextLightColor = Color(0xFF9A9BB2);
 const kFillStarColor = Color(0xFFFCC419);
-
+const kShadowShimmerColor = Color.fromARGB(255, 115, 115, 115);
 const kDefaultPadding = 20.0;
 
 const kDefaultTextStyle =
